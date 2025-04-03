@@ -6,7 +6,7 @@ in the situation when you're researching something on the web and find that only
 
 ## how it works + features
 the portion you highlighted automatically gets saved locally so when you open up the extension preview, you can find a cumulative list of the things you've highlighted using that browser along with a hyperlink back to its original websites. some notable features:
-- sleek interface and nice minimalistic ui with a ton of whitespace + multi pastel highlighter colors.
+- sleek interface + nice minimalistic ui (with a ton of whitespace) + multi pastel highlighter colors.
 - the highlighted portion doesn't get erased if you refresh and if you reopen the website at a later date. it's so that you can quickly identify the portion you need to refer to at a glance. 
 - in the list of saved notes, you can also edit the 'heading' of each individual snippet to describe it in your own words so that when you reopen the list at some other time, you can quickly navigate and brush up on what each snippet contains instead of having to open the individual websites.
 
@@ -16,7 +16,8 @@ the extension is lightweight and super easy to use:
 - <b>step two:</b> open up any random web page and you select the text you want to highlight
 - <b>step three:</b> right click and select the "save snippet" option that shows up
 - <b>step four:</b> navigate to the top right corner of your browser and open up the 'extensions' popup
-- <b>step five:</b> click on the snippetify browser extension to show the extension popup with the list of snippets you've highlighted on the web
+- <b>step five:</b> click on the snippetify browser extension to show the extension popup
+- <b>step six:</b> you can now see the list of text snippets you've ever highlighted on the web
 
 ## data policy
 there's absolutely no need for the following:
