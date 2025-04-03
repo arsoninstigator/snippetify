@@ -19,10 +19,12 @@ the extension is lightweight and super easy to use:
 - <b>step five:</b> click on the snippetify browser extension to show the extension popup
 - <b>step six:</b> you can now see the list of text snippets you've ever highlighted on the web
 
-## data policy
+## user data handling policy
 there's absolutely no need for the following:
 - any sort of additional installations to your device
 - creation of an account or logging in to use the extension
 - allow special permissions for accessing user data
+
+you can view our entire privacy policy [here](privacy.md) in this repository :D
 
 ![image](https://github.com/user-attachments/assets/4e068ce4-12f7-40da-9740-84bc91efa452)
